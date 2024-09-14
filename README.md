@@ -36,8 +36,8 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/airwell.git
-    cd airwell
+    git clone git@github.com:Job-Rider/cassini-hackathon.git
+    cd cassini-hackathon
     ```
 
 2. Install the required Python libraries:
@@ -54,7 +54,7 @@ To run the project locally, follow these steps:
 
 ## Future Enhancements
 
-- Integration with real-time satellite data for multiple regions.
+- More analysis of air polution data from the Copernicus satellite ecosystem.
 - Custom notifications and alerts based on pollution levels.
 - Enhanced AI-driven recommendations for individual employee work schedules.
 
