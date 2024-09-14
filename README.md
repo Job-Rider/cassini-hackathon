@@ -19,6 +19,10 @@ The project includes a Python script that processes CO data from CAMS European a
 ### File:
 - `co_emissions_thessaloniki.py`: Script to analyze CO emissions data for Thessaloniki on a weekly and monthly basis. The output is used to adjust hybrid work recommendations for companies in the area.
 
+Charts for CO of December 2023 month and first week of month
+![December 2023](Monthly-CO.png)
+![1st week of December 2023](Monthly-CO.png)
+
 ---
 
 ## Dashboard UI
