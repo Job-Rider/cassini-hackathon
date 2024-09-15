@@ -14,7 +14,7 @@ This project, **AirWell**, was created for [Greece Cassini hackathon 2024](https
 
 ## Python Script
 
-The project includes a Python script that processes CO data from CAMS European air quality reanalyses model for the Thessaloniki area to calculate **weekly and monthly CO emissions**. This script leverages publicly available satellite data from Copernicus program.
+The project includes a Python script that processes CO data from [CAMS European air quality reanalyses model](https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-reanalyses?tab=overview) for the Thessaloniki area to calculate **weekly and monthly CO emissions**. This script leverages publicly available satellite data from Copernicus program.
 
 ### File:
 - `co_emissions_thessaloniki.py`: Script to analyze CO emissions data for Thessaloniki on a weekly and monthly basis. The output is used to adjust hybrid work recommendations for companies in the area.
