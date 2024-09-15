@@ -57,7 +57,7 @@ plt.xticks(df_avg['time'], labels=time_labels_unique, rotation=45)
 
 # Formatting the plot
 plt.xlabel('Day of the Week', fontsize=12)
-plt.ylabel('Mean CO Concentration', fontsize=12)
+plt.ylabel('Mean CO Concentration (µg/m3)', fontsize=12)
 plt.title('Mean CO Concentration with Trend in Thessaloniki (Dec 3-10, 2023)', fontsize=14)
 plt.grid(True)
 plt.legend()
