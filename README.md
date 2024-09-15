@@ -27,7 +27,7 @@ Charts for CO of December 2023 month and first week of month
 
 ## Mobile Application UI
 
-We used a [Figma](https://www.figma.com/design/EZCWyCGPDHCm0JYRVKlDrs/AirWell?node-id=0-1&t=DcEwEb5okAKBDt87-1) to design our mobile application which will be available for employees.
+We used [Figma](https://www.figma.com/design/EZCWyCGPDHCm0JYRVKlDrs/AirWell?node-id=0-1&t=DcEwEb5okAKBDt87-1) to design our mobile application which will be available for employees.
 
 Here is a screenshot showcasing the UI.
 ![Mobile App Preview](Mobile-App.png)
